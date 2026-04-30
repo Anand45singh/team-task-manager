@@ -281,6 +281,6 @@ VITE_API_URL=
 
 **Your Name**
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* GitHub: https://github.com/Anand45singh/team-task-manager
+* Email: singh25302@gmail.com
 
