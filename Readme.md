@@ -279,8 +279,7 @@ VITE_API_URL=
 
 # 👨‍💻 Author
 
-**Your Name**
-
+* Your Name : Anand Singh
 * GitHub: https://github.com/Anand45singh/team-task-manager
 * Email: singh25302@gmail.com
 
